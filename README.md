@@ -3,7 +3,7 @@ FocusHub is a minimal, distraction-free web app to boost productivity and mental
 
 FocusHub is a simple and elegant productivity timer app designed to help students stay focused and manage their study sessions effectively using the 25-minute rule (Pomodoro Technique).
 
-🔗 Live Demo:[https://focushub-ruddy.vercel.app/](https://focushub-ruddy.vercel.app/)
+🔗 Live Demo:Click here](https://focushub-ruddy.vercel.app/)
 
 🚀 Features
 - ⏲️ 25-minute focus timer to boost concentration  
